@@ -2,7 +2,7 @@
 Name: Shashwat Pandey\
 Registration Number: 25BCE10368\
 Branch: Computer Science Engineering\
-Year: 2025\
+Year: 2025
 # Project Overview
 This project focuses on developing digital literacy skills required in today’s digital world. It includes creating a professional online presence, understanding safe internet practices, learning coding basics, and spreading awareness about cybercrime. The project was completed through a series of tasks that involved using platforms like GitHub, LinkedIn, HackerRank, and Google Forms.
 # Task Summaries
